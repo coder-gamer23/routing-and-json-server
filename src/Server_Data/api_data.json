@@ -1,0 +1,46 @@
+{
+  "registerusers": [
+    {
+      "id": 1,
+      "firstName": "Vasanth",
+      "Lastname": "Kumar",
+      "email": "vasanth23@gmail.com",
+      "password": "Admin@123"
+    },
+    {
+      "id": 2,
+      "firstName": "Yogalakshmi",
+      "Lastname": "Sundar",
+      "email": "priya110@gmail.com",
+      "password": "Yoga@123"
+    },
+    {
+      "id": 55,
+      "firstName": "Shanmuga",
+      "Lastname": "Sundar",
+      "email": "sunder1711@gmail.com",
+      "password": "Dad@123"
+    },
+    {
+      "id": 77,
+      "firstName": "vishnu",
+      "Lastname": "govindarasu",
+      "email": "vishnugovindarasu@gmail.com",
+      "password": "Loot$m"
+    },
+    {
+      "id": 90,
+      "firstName": "Selva",
+      "Lastname": "mani",
+      "email": "mani_selva@hotmail.com",
+      "password": "P@sswor!"
+    },
+    {
+      "id": 101,
+      "firstName": "Mani",
+      "Lastname": "Prakash",
+      "email": "manipk@gmail.com",
+      "password": "555@12Mani"
+    }
+  ]
+}
